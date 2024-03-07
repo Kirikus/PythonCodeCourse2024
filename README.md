@@ -5,24 +5,24 @@
  | ------- | :--------: | :----------: | :----------: | :----------: |
 | [Аверков Владислав]() | 🞨 |  | [Дискретное Хафа для прямых](https://github.com/YablochniyBoss/Hough_Transform) | [L](https://github.com/sribnyak/discrete-radon-transform) |
 | [Богданов Яков](https://t.me/Bogdanov_Yackov) | ✓ | ✓✓✓✓✓✓✓ | [Обобщенное Хафа для кругов известного радиуса](https://github.com/BogdanovYackov/Hough) | [L](https://github.com/passivenotagressive/Random-Radon-Transformation.git) |
-| [Горбунова Анна]() | 🞨 |  | []() |  |
-| [Иванов Денис](https://t.me/hell_space_child) |  |  | []() |  |
+| [Горбунова Анна]() | 🞨 |  | []() | [L](https://github.com/servoskinner/hough_circles) |
+| [Иванов Денис](https://t.me/hell_space_child) |  |  | [Дискретное Радона для прямой](https://github.com/mug-4-ur-pc/python_course_solutions/tree/master/discrete_radon_transform) | [L](https://github.com/chousouu/iitp-python) |
 | [Кондрашов Кирилл](https://t.me/kirpall) | ✓✓✓ |  | [Быстрое Хафа для прямых](https://github.com/KIrillPal/FastHoughTransform/blob/main/src/hough.py) | [L](https://github.com/BogdanovYackov/Hough) |
 | [Конюшенко Иван](https://t.me/idkon) | ✓ |  | [Обобщенное Хафа для эллипсов](https://github.com/AntivistRock/HoughEllipse) | [L](https://github.com/Kiri4s/iitp_Python/tree/main/Discrete_Radon_Transform) |
 | [Кузнецова Алина](https://t.me/passivenotagressive) |  | ✓ | [Случайное Радона](https://github.com/passivenotagressive/Random-Radon-Transformation.git) | [L](https://github.com/nktshch/semester6) |
-| [Лисов Петр](https://t.me/Getintothefuckingrobot) | ✓✓✓ |  | []() |  |
+| [Лисов Петр](https://t.me/Getintothefuckingrobot) | ✓✓✓ |  | []() | [L](https://github.com/abramov-de/pyiitp_24/tree/main/HoughTransform) |
 | [Лыкова Елена](https://t.me/helenlyko) | ✓✓✓ |  | [Обобщенное Хафа для кругов известного радиуса](https://github.com/helen521653/Python/tree/main/%D0%94%D0%97_2) | [L](https://github.com/cucumparty/iitp-6-python/tree/main) |
 | [Срибняк Александр](https://t.me/Sribnyak) |  | ✓ | [Дискретное Радона для прямой](https://github.com/sribnyak/discrete-radon-transform) | [L](https://github.com/AntivistRock/HoughEllipse) |
-| [Торопин Иван](https://t.me/retekou) |  |  | []() |  |
+| [Торопин Иван](https://t.me/retekou) |  |  | []() | [L](https://github.com/sribnyak/discrete-radon-transform) |
 | [Труфанова София](https://t.me/mcdelta_t) | ✓ | ✓✓✓ | [Дискретное Радона для прямой](https://github.com/SofiaTrufanova/Discrete_Radon) | [L](https://github.com/unrip512/get/blob/master/Haugh_transmission_groza.ipynb) |
 | [Цырентаров Антон](https://t.me/jack_6) |  | ✓ | [Дискретное Радона для прямой](https://github.com/6jack6/python_iitp/tree/radon_transform) | [L](https://github.com/YablochniyBoss/Hough_Transform) |
 | [Абрамов Денис](https://t.me/sethyperpar) |  |  | [Обобщенное Хафа для прямых](https://github.com/abramov-de/pyiitp_24/tree/main/HoughTransform) | [L](https://github.com/helen521653/Python/tree/main/%D0%94%D0%97_2) |
-| [Безъязычный Семен](https://t.me/Miptbez) | ✓✓ |  | [Дискретное Радона для прямой](https://github.com/BezSemenMIPT/iitp_python/tree/main/Radon_transform) | [L](https://github.com/servoskinner/hough_circle) |
+| [Безъязычный Семен](https://t.me/Miptbez) | ✓✓ |  | [Дискретное Радона для прямой](https://github.com/BezSemenMIPT/iitp_python/tree/main/Radon_transform) | [L](https://github.com/servoskinner/hough_circles) |
 | [Гроза Надежда](https://t.me/groza_nadezhda) | ✓ | ✓ | [Обобщенное Хафа для кругов известного радиуса](https://github.com/unrip512/get/blob/master/Haugh_transmission_groza.ipynb) | [L](https://github.com/ValenokBut/haff/blob/main/obsh_haff_lines.py) |
 | [Денишева Рушана](https://t.me/ruru_q) |  | ✓✓✓ | [Обобщенное Хафа для прямых](https://github.com/cucumparty/iitp-6-python/tree/main) | [L](https://github.com/awesomeslayer/IITP_Python/tree/master/6sem/HW2) |
-| [Егоров Фёдор](https://t.me/Siegfri3d) |  |  | [Обобщенное Хафа для кругов известного радиуса](https://github.com/servoskinner/hough_circle) | [L](https://github.com/passivenotagressive/Random-Radon-Transformation.git) |
-| [Мамедов Ясин](https://t.me/yasinowo) |  | ✓ | Быстрое Хафа для прямых |  |
-| [Николаев Ярослав](https://t.me/behette_shashlykta) | 🞨 |  | []() |  |
+| [Егоров Фёдор](https://t.me/Siegfri3d) |  |  | [Обобщенное Хафа для кругов известного радиуса](https://github.com/servoskinner/hough_circles) | [L](https://github.com/passivenotagressive/Random-Radon-Transformation.git) |
+| [Мамедов Ясин](https://t.me/yasinowo) |  | ✓ | [Быстрое Хафа для прямых](https://github.com/chousouu/iitp-python) | [L](https://github.com/mug-4-ur-pc/python_course_solutions/tree/master/discrete_radon_transform) |
+| [Николаев Ярослав](https://t.me/behette_shashlykta) | 🞨 |  | []() | [L](https://github.com/KIrillPal/FastHoughTransform/blob/main/src/hough.py) |
 | [Семёновых Кирилл](https://t.me/tkirk13) | ✓ |  | [Дискретное Радона для прямой](https://github.com/Kiri4s/iitp_Python/tree/main/Discrete_Radon_Transform) | [L](https://github.com/abramov-de/pyiitp_24/tree/main/HoughTransform) |
 | [Серов Егор](https://t.me/awes0meslayer) | ✓✓ |  | [Быстрое Хафа для прямых](https://github.com/awesomeslayer/IITP_Python/tree/master/6sem/HW2) | [L](https://github.com/SofiaTrufanova/Discrete_Radon) |
 | [Щербак Никита](https://t.me/nktshch) | ✓ | ✓ | [Обобщенное Хафа для прямых](https://github.com/nktshch/semester6) | [L](https://github.com/KIrillPal/FastHoughTransform/blob/main/src/hough.py) |
